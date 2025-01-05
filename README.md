@@ -58,7 +58,7 @@ Primus-GP is an AI-powered platform designed to evaluate, prioritize, and optimi
      ```bash
      streamlit run dashboard.py
      ```
-
+![Screenshot 2025-01-05 165452](https://github.com/user-attachments/assets/54365557-8821-4995-9ddc-5da4dc6dc5a6)
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
@@ -66,9 +66,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-![Screenshot 2025-01-05 165452](https://github.com/user-attachments/assets/54365557-8821-4995-9ddc-5da4dc6dc5a6)
-
-
----
-
-This README provides an overview of the Primus-GP platform, its features, installation instructions, usage guidelines, contribution information, and licensing details. It serves as a starting point for users and developers interested in utilizing or contributing to the project. 
